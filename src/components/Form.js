@@ -101,7 +101,7 @@ import FormInputGroup from './FormInputGroup';
       
     
    
-
+      <h4 className='alert-info fw-bold'>Cost to company :{ctc}</h4>
      <button type="submit" className='my-3 btn btn-primary btn-lg w-100'
      onClick={calculateCtc}
      >Calculate</button>
